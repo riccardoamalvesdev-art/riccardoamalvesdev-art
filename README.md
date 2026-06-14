@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou o **Ricardo Gabriel** 👋
 
-<!--
-**riccardoamalvesdev-art/riccardoamalvesdev-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend focado no ecossistema Java, dedicado à construção de aplicações robustas, escaláveis e eficientes. Mantenho uma rotina diária e disciplinada de 3 horas líquidas de estudo prático, focado em construir uma base técnica sólida e alinhada com as exigências reais do mercado.
 
-Here are some ideas to get you started:
+## 🛠️ Minha Stack e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Backend:** Domínio de lógica de programação e algoritmos utilizando o Java 21 LTS dentro do IntelliJ IDEA.
+* **Versionamento:** Controlo de versões utilizando Git e a metodologia Git Flow.
+* **Infraestrutura:** Conhecimento prático em ambientes Linux e comandos Bash.
+
+## 🎯 Foco Atual
+
+Atualmente focado na entrega de projetos estruturados, desenvolvendo um **Sistema de Biblioteca em Java puro** com persistência em memória (ArrayList). Este é o alicerce para o meu futuro ecossistema de E-commerce.
+
+## 📫 Vamos conectar
+
+* **LinkedIn:** [https://www.linkedin.com/in/riccardoamalvesdev/]
