@@ -14,4 +14,4 @@ Atualmente focado na entrega de projetos estruturados, desenvolvendo um **Sistem
 
 ## 📫 Vamos conectar
 
-* **LinkedIn:** [https://www.linkedin.com/in/riccardoamalvesdev/]
+* **LinkedIn:** https://www.linkedin.com/in/riccardoamalvesdev/
