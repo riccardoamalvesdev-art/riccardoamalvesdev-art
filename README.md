@@ -13,5 +13,5 @@ Desenvolvedor Backend focado no ecossistema Java, dedicado à construção de ap
 Atualmente focado na entrega de projetos estruturados, desenvolvendo um **Sistema de Biblioteca em Java puro** com persistência em memória (ArrayList). Este é o alicerce para o meu futuro ecossistema de E-commerce.
 
 ## 📫 Vamos conectar
-
+* **Instagram:** https://www.instagram.com/riccardo_o_dev/
 * **LinkedIn:** https://www.linkedin.com/in/riccardoamalvesdev/
